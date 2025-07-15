@@ -5,8 +5,6 @@
 
 This domain provides the foundational understanding of Snowflake's Gen AI capabilities and architecture. It accounts for **26%** of the exam questions and covers the core concepts needed to understand how Snowflake enables generative AI workflows.
 
-⚠️ **Exam Focus**: This study guide covers both current exam content (SNOWFLAKE.CORTEX.* functions) and preview features (AI_* functions). The AI_* functions are NOT on the current certification exam. Focus your exam preparation on SNOWFLAKE.CORTEX.* functions.
-
 ## 🎯 Domain Overview
 
 This domain introduces Snowflake Cortex, the platform's AI and ML capabilities, vector operations, and how Snowflake integrates with the broader Gen AI ecosystem to enable AI-powered applications.

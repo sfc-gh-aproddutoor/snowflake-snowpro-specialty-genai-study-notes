@@ -13,9 +13,9 @@ This repository contains comprehensive study notes for the Snowflake SnowPro Spe
 
 ## ⚠️ Important Notice About AI Functions
 
-This study guide covers both **current exam content** and **preview features**:
-- **SNOWFLAKE.CORTEX.*** functions are **ON THE EXAM** - Focus here for certification
-- **AI_*** functions (AI_COMPLETE, AI_CLASSIFY, etc.) are **NOT ON THE EXAM** - These are preview features included for completeness
+This study guide covers **all AI functions included in the exam**:
+- **SNOWFLAKE.CORTEX.*** functions are **ON THE EXAM**
+- **AI_*** functions (AI_COMPLETE, AI_CLASSIFY, etc.) are **ON THE EXAM** - Previously preview features are now included
 
 ## 📚 Domain Topics (Exam Weighting)
 
